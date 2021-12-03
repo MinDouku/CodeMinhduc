@@ -1,0 +1,27 @@
+
+.calcTime {
+    width: 160px;
+    height: 80px;
+    background-color: lightgrey;
+    margin: 0.5em;
+    padding: 0 0.5em;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.timeString{
+    text-align: center;
+    font-size: 1.5em;
+    margin-block: 0.5em;
+}
+.location{
+    text-align: center;
+    font-size: 1em;
+    color: gray;
+    margin-block: 0.5em;
+}
+.container{
+    display: flex;
+    flex-direction: row ;
+    
+}
+
